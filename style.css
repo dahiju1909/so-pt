@@ -1,7 +1,7 @@
 @import url("styles/header.css");
 
 :root[
-    --color-de-fundo:yello;
+    
 ]
 body{
     background-color: var(--cor-de-fundo)
