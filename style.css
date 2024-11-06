@@ -2,8 +2,12 @@
 
 :root{
     --cor-de-fundo: rgb(255, 255, 255);
+    --fonte-principal:"poppins";
 }
 body{
     background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 16x;
+    font-weight: 400;
 }
 
