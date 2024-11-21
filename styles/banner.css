@@ -1,0 +1,36 @@
+.banner{
+    background: pink;
+    color:aqua;
+    text-align: center;
+    padding: 
+
+}
+.banner__titulo{
+    font-weight: 700;
+    margin: 1em 0;
+
+
+}
+.banner__texto{
+    font-weight: 700;
+    margin: 1em 0;
+
+}
+.banner__pesquisa{
+    background-color: azure;
+    border: 1px solid white
+    color: white;
+    border-radius: 24px;
+    padding: 1em;
+    width: 100%
+
+}
+.banner__pesquisa::placeholder{
+    font-family: var(--fonte-principal);
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    color: aqua;
+    background: url("../img/Lupa.svg")no-repeat
+    background-position: 1em;
+}
